@@ -1,2 +1,3 @@
 # fashionsketchbookjournal
 
+"Coming Soon"
